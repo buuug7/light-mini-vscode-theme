@@ -3,6 +3,7 @@
     "displayName": "Light mini theme",
     "description": "light mini theme for vscode",
     "version": "0.0.1",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.58.0"
     },
@@ -22,5 +23,9 @@
 		"theme",
 		"mini",
 		"light"
-	]
+	],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/buuug7/light-mini-vscode-theme"
+	}
 }
