@@ -1,0 +1,26 @@
+{
+    "name": "light-mini-vscode-theme",
+    "displayName": "Light mini theme",
+    "description": "light mini theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light mini theme",
+                "uiTheme": "vs",
+                "path": "./themes/color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+		"theme",
+		"mini",
+		"light"
+	]
+}
